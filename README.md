@@ -42,7 +42,10 @@ Here is a detailed, in-depth breakdown of the experimental setup shown:
 
 * **Human Interaction:** A human in the loop is shown interacting with the control unit, fine-tuning the dial to regulate the test parameters.
 
-<img width="860" height="871" alt="3d-design-6dF-motor" src="https://github.com/user-attachments/assets/f87b5315-3e8f-44a1-9ff4-c11873c60a2c" />
+<img width="860" height="871" src="https://github.com/user-attachments/assets/f87b5315-3e8f-44a1-9ff4-c11873c60a2c" />
+
+<img width="3024" height="4032" src="https://github.com/user-attachments/assets/45323ead-f454-4fb7-8023-1df84dd32193" />
+
 
 
 Compared to a standard, standalone drone motor (which is typically bolted rigidly to a fixed test bench or a drone frame), this setup is fundamentally different because it integrates a **multi-axis gimbal and vectoring test architecture**.
